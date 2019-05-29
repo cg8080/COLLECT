@@ -58,3 +58,6 @@ https://github.com/audi/audi-ui
 
 #### n. -微信小程序富文本解析自定义组件，支持HTML及markdown解析 
 https://github.com/icindy/wxParse
+
+#### n.  mpvue 美团外卖(第三方)开源程序
+https://github.com/WsmDyj/mpvue
