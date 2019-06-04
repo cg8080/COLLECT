@@ -45,7 +45,7 @@ https://github.com/wechat-miniprogram/miniprogram-cli
 https://github.com/young-js/wx-promise-pro
 
 #### n. 卖座网，小程序版(非官方) 
-https://github.com/cg8080/maizuo_wechat
+https://github.com/zhengguorong/maizuo_wechat
 用于单元测试代码参考 jest
 
 #### n. IT之家第三方小程序版客户端（使用 mpvue 开发，兼容 Web）
