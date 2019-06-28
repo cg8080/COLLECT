@@ -38,6 +38,9 @@ https://github.com/mmrxia/weapp-mall
 #### n. 小程序直播
 https://github.com/TencentVideoCloudMLVBDev/MiniProgram
 
+#### n. 使用 webpack, babel, scss 开发的微信/支付宝小程序项目脚手架
+https://github.com/cantonjs/wxapp-boilerplate.git
+
 #### n. 小程序开发构建工具
 https://github.com/wechat-miniprogram/miniprogram-cli
 
