@@ -6,7 +6,7 @@ For collecting excellent projects, frameworks, plugins to browse, we support the
 https://github.com/hustcc/JS-Sorting-Algorithm
 
 #### 2. 后台管理项目：vue全家桶 + element 
-https://panjiachen.github.io/vue-element-admin/
+https://github.com/PanJiaChen/vue-element-admin/
 
 #### 3.免费的计算机编程类中文书籍 
 https://github.com/justjavac/free-programming-books-zh_CN ，欢迎投稿 http://weibo.com/justjavac
