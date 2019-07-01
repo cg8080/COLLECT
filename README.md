@@ -65,3 +65,6 @@ https://github.com/icindy/wxParse
 
 #### n.  mpvue 美团外卖(第三方)开源程序
 https://github.com/WsmDyj/mpvue
+
+#### n.  小程序脚手架
+https://github.com/cantonjs/wxapp-boilerplate
