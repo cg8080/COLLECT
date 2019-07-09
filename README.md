@@ -7,8 +7,7 @@ For collecting excellent projects, frameworks, plugins to browse, we support the
 https://github.com/hustcc/JS-Sorting-Algorithm
 #### 免费的计算机编程类中文书籍 
 https://github.com/justjavac/free-programming-books-zh_CN ，欢迎投稿 http://weibo.com/justjavac
-#### n. 是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系
-https://github.com/blueflylin/reactjs101
+
 
 ## Vue
 #### 后台管理项目：vue全家桶 + element 
@@ -21,6 +20,8 @@ https://github.com/opendigg/awesome-github-vue
 ## React
 #### React Native 优秀开源项目大全
 https://github.com/MarnoDev/react-native-open-project
+#### 是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系
+https://github.com/blueflylin/reactjs101
 
 ## node
 #### koa2学习笔记
