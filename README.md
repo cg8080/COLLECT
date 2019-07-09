@@ -8,6 +8,9 @@ https://github.com/hustcc/JS-Sorting-Algorithm
 #### 2. 后台管理项目：vue全家桶 + element 
 https://github.com/PanJiaChen/vue-element-admin/
 
+#### 2.1 后台管理项目：vue全家桶 + element + ts
+https://github.com/Armour/vue-typescript-admin-template
+
 #### 3.免费的计算机编程类中文书籍 
 https://github.com/justjavac/free-programming-books-zh_CN ，欢迎投稿 http://weibo.com/justjavac
 
