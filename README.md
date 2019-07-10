@@ -3,6 +3,8 @@
 For collecting excellent projects, frameworks, plugins to browse, we support these project authors, remember STAR!
 
 ## 原理 
+##### JavaScript 算法与数据结构
+https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
 #####  一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。 https://sort.hust.cc/
 https://github.com/hustcc/JS-Sorting-Algorithm
 #### 免费的计算机编程类中文书籍 
