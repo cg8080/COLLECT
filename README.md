@@ -57,6 +57,8 @@ https://github.com/icindy/wxParse
 https://github.com/WsmDyj/mpvue
 ##### IT之家第三方小程序版客户端（使用 mpvue 开发，兼容 Web）
 https://github.com/F-loat/ithome-lite
+##### 小程序异常监控、日志收集
+https://github.com/zhengguorong/xbossdebug-wechat
 
 ## 工具 UI
 ##### psd 导出 html 的工具
