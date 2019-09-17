@@ -1,6 +1,10 @@
 # COLLECT
 用于收集优秀项目、框架、插件 以便翻阅，大家多多支持这些项目作者，记得STAR哦！
 For collecting excellent projects, frameworks, plugins to browse, we support these project authors, remember STAR!
+
+## 开卷有益 多学多看
+#####  深入浅出 Webpack
+https://webpack.wuhaolin.cn/
 #####  Thinking in Microfrontend (微前端的那些事儿)
 https://github.com/phodal/microfrontends
 
